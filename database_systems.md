@@ -1,4 +1,4 @@
-Book name- Database System Concepts-Seventh Edition
+Book name- Database System Concepts-Seventh Edition/n
 website of the book- www.mheducation.co.in
 for practice exercises- https://connect.mheducation.com
 to send any suggestions- db-book-authors@cs.yale.edu
