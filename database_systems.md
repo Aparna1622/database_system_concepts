@@ -11,3 +11,16 @@ The earliest database systems arose in the 1960's.
 1. are highly valuable  
 2. are relatively large and  
 3. are accessed by multiple users and applications, ofter at the same time.
+
+--- Purpose of data base systems
+1. Conventional file-processing environment do not allow needed data to be retrieved in a convenient and efficient manner. More responsive data retrieval systems are required for this purpose.
+2. It is developed to overcome the disadvantages of file-based applications to database systems.
+3. The major purpose of database is to provide users with an abstract view of the data. That is, the system hides certain details of how the data are stored and maintained.  
+Drawbacks of data saved in OS with some programs:
+1. Data redundancy and inconsistency(duplication)
+2. Difficulty in accessing data
+3. Data isolation
+4. Integrity problems
+5. Atomicity problems(what if a system crashes and transaction holds)
+6. Concurrent access anomalies
+7. Security problems
