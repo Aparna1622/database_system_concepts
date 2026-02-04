@@ -13,4 +13,8 @@ The important feature of data models, such as the relational model, is that they
 
 ---Database use a type of structure called index to support efficient retrieval of records; these too form part of the physical level.
 
+Instance:  
+The collection of information stored in the database at a particular moment is called an instance of the database. The values of the variable in a program at a point in time corresponds to an instance of a database schema.    
+Schema:  
+The overall design of the database is called the database schema. It corresponds to the variable declarations(along with associated type definitions) in a program. 
 
