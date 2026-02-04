@@ -16,5 +16,8 @@ The important feature of data models, such as the relational model, is that they
 Instance:  
 The collection of information stored in the database at a particular moment is called an instance of the database. The values of the variable in a program at a point in time corresponds to an instance of a database schema.    
 Schema:  
-The overall design of the database is called the database schema. It corresponds to the variable declarations(along with associated type definitions) in a program. 
-
+The overall design of the database is called the database schema. It corresponds to the variable declarations(along with associated type definitions) in a program.  
+Different types of schema:
+1. Physical schema: Describes the database design at a physical level.  
+2. Logical schema: Describes the database desing at a logical level.  
+The logical schema is the most important in terms of its effect on the application programs as programmers construct applications by using the logical schema. The physical schema is hidden beneath the logical schema and can usually be changed easily without affecting application programs.
